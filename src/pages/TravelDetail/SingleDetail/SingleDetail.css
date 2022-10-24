@@ -1,0 +1,8 @@
+.room-img > img {
+	width: 250px;
+	height: 150px;
+}
+.single-travel {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+}
